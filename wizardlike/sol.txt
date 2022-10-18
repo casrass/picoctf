@@ -1,0 +1,3 @@
+just set your word wrap on sublime to 100 lol
+
+picoCTF{ur_4_w1z4rd_4844AD6F}
